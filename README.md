@@ -3,19 +3,11 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     -[Tech Stack](#tech-stack)
-- [🚀 Live Demo](#live-demo) 
-- [👩 Video explanation](#video-explanation)   
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
+- [🚀 Live Demo](#live-demo)   
 - [👥 Authors](#authors)
-- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
--- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
 
-# 📖 [Portfolio] <a name="Portfolio"></a>
+# 📖 [Quote Generator] <a name="Quote Generator"></a>
 
 
 **[Quote Generator]** is a simple JavaScript, HTML and CSS project that uses a locally made API to generate different quotes  
